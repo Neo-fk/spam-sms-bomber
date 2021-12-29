@@ -18,13 +18,13 @@ apt install git python -y
 
 ```bhash
 
-git clone https://github.com/ANUSARA-ANU/sms-spamer
+git clone https://github.com/ANUSARA-ANU/spam-sms-bomber.git
 
 ```
 
 ```bhash
 
-cd sms-spamer
+cd spam-sms-bomber
 
 ```
 
@@ -36,7 +36,7 @@ pip3 install -r requirements.txt
 
 ```bhash
 
-python3 sms-spamer.py
+python3 spam-sms-bomber.py
 
 
 ```
