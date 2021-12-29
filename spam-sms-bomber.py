@@ -115,8 +115,7 @@ if cho==1:
 	print(logo)
 	print(bar+'\n')
 	time.sleep(0.5)
-	print(f'\t{Style.BRIGHT}මේක ආතල් ගන්න විතරක් Use කරපන් මේකෙන් පළිගන්න එපෝ!!\n\t     https://t.me/InfinityJE \n\t Based on SL Bomber[https://github.com/Sl-Sanda-Ru/Sl-Bomber.git]' )
-	print(bar+'\n')
+	print(f'\t{Style.BRIGHT}මේක ආතල් ගන්න විතරක් Use කරපන් මේකෙන් පළිගන්න එපෝ!!\n\t     
 	print(Fore.YELLOW+Style.BRIGHT+'\tදැන් නවත්තන්න ඕන නම් Ctrl+c ඔබන්න')
 	if num[0:3] == '077' or num[0:3] == '076':
 		count=0
