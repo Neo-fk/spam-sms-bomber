@@ -707,7 +707,7 @@ This Aplication developed by anonymous
 
 [*] contact 🔗
 A Product By anonymous®(https://t.me/Anonymouse_Scripts)
-"enjoy")
+""")
 	agd=input(f'\t{Style.BRIGHT}{random.choice(fore)}[?] Do you want to go back to main menu (y/n): ')
 	if agd == 'Y' or agd == 'y':
 		os.system('python anonymous.py')
