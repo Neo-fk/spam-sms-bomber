@@ -45,6 +45,6 @@ ___
 
 ____
 # <h1 align="center"> WARNING ! </h1>
-Only use it to educational purposes
+Do not use for unnecessary things
 
 <p style="color:green ">Copyright anusara®</p>
