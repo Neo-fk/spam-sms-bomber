@@ -703,10 +703,11 @@ elif cho == 4:
 	print(logo)
 	print(bar+'\n')
 	print("""
-This Aplication developed by InukaASiTH
-[*] Text Message bomber is a copy of SL Bomber By SL Sandaru (https://github.com/Sl-Sanda-Ru/Sl-Bomber.git)
+This Aplication developed by anonymous
+
+[*] contact 🔗
 A Product By anonymous®(https://t.me/Anonymouse_Scripts)
-""")
+"enjoy")
 	agd=input(f'\t{Style.BRIGHT}{random.choice(fore)}[?] Do you want to go back to main menu (y/n): ')
 	if agd == 'Y' or agd == 'y':
 		os.system('python anonymous.py')
