@@ -689,7 +689,7 @@ if cho==1:
 	time.sleep(0.75)
 	ag=input(f'\t{Style.BRIGHT}{random.choice(fore)}[?] තා කාටහරි කෙලවන්න තියෙද?(y/n) ')
 	if ag == 'Y' or ag == 'y':
-		os.system('python infinitybomber.py')
+		os.system('python anonymous.py')
 	else:
 		exit()
 elif cho == 2:
@@ -705,11 +705,11 @@ elif cho == 4:
 	print("""
 This Aplication developed by InukaASiTH
 [*] Text Message bomber is a copy of SL Bomber By SL Sandaru (https://github.com/Sl-Sanda-Ru/Sl-Bomber.git)
-A Product By JASON ENT®(t.me/InfinityJE)
+A Product By anonymous®(https://t.me/Anonymouse_Scripts)
 """)
 	agd=input(f'\t{Style.BRIGHT}{random.choice(fore)}[?] Do you want to go back to main menu (y/n): ')
 	if agd == 'Y' or agd == 'y':
-		os.system('python infinitybomber.py')
+		os.system('python anonymous.py')
 	
 else:
 	exit()
