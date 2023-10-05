@@ -1,4 +1,4 @@
-SMS Bomber By Anusara-anu
+SMS Bomber By Anusara B.
 
 <p align="center">  A SMS bomber For Sri Lankan Numbers.</p><br>
 
